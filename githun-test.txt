@@ -1,0 +1,3 @@
+in todays class we are testing github
+start by  git status
+next use git add
